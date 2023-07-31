@@ -1,0 +1,17 @@
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\bin\Debug\Degin_Employee_Coffee.exe.config
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\bin\Debug\Degin_Employee_Coffee.exe
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\bin\Debug\Degin_Employee_Coffee.pdb
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.csproj.AssemblyReference.cache
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.Form1.resources
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.Properties.Resources.resources
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.csproj.GenerateResource.cache
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.csproj.CoreCompileInputs.cache
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.exe
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.pdb
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.quatity.resources
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.Form2.resources
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.Form3.resources
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.Form4.resources
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.Form5.resources
+D:\Workspace\LaptrinhC#\Degin_Employee_Coffee\Degin_Employee_Coffee\obj\Debug\Degin_Employee_Coffee.Form6.resources
